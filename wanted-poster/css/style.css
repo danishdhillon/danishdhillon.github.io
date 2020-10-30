@@ -91,8 +91,8 @@ h3 {
 h4>snap{
 padding-bottom: 0;
 padding-top: 0;
-padding-left: 8pxrem;
-padding-right: 8pxrem;
+padding-left: .5rem;
+padding-right: .5rem;
 } {
     text-transform: uppercase;
     font-weight: normal;
