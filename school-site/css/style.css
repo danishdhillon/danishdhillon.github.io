@@ -133,13 +133,13 @@ margin-bottom: 2rem;
 
 /* Link Styling */
 
-a {}
+a {outline: none;}
 
 a:link,
-a:visited {}
+a:visited {color: #33658A}
 
 a:focus,
-a:hover {}
+a:hover {text-decoration: none;}
 
 
 /* List Styling */
