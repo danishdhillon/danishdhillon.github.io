@@ -122,7 +122,9 @@ margin: 10%;
 margin-top: 3rem;
 box-shadow:0.625rem 0.625rem 0.625rem grey;
 }
-
+.rotate {
+transform: rotate(2deg);
+}
 .highlight {
 text-transform: uppercase;
 font-family: "ultraregular", serif;
